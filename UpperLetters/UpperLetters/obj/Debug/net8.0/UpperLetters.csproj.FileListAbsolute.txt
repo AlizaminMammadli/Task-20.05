@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\bin\Debug\net8.0\UpperLetters.exe
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\bin\Debug\net8.0\UpperLetters.deps.json
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\bin\Debug\net8.0\UpperLetters.runtimeconfig.json
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\bin\Debug\net8.0\UpperLetters.dll
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\bin\Debug\net8.0\UpperLetters.pdb
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\UpperLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\UpperLetters.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\UpperLetters.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\UpperLetters.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\UpperLetters.dll
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\refint\UpperLetters.dll
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\UpperLetters.pdb
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\UpperLetters.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Code\C\UpperLetters\UpperLetters\obj\Debug\net8.0\ref\UpperLetters.dll

@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\Stringspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\Stringspace.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\Stringspace.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\Stringspace.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\bin\Debug\net8.0\Stringspace.exe
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\bin\Debug\net8.0\Stringspace.deps.json
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\bin\Debug\net8.0\Stringspace.runtimeconfig.json
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\bin\Debug\net8.0\Stringspace.dll
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\bin\Debug\net8.0\Stringspace.pdb
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\Stringspace.dll
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\refint\Stringspace.dll
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\Stringspace.pdb
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\Stringspace.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Code\C\Stringspace\Stringspace\obj\Debug\net8.0\ref\Stringspace.dll
